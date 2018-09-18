@@ -10,7 +10,7 @@ namespace Icatu.EmployeeManagerAPI.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Home Page112q";
+            ViewBag.Title = "Home Page";
 
             return View();
         }
